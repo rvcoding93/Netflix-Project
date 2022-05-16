@@ -1,0 +1,729 @@
+/* MainDisplayImg */
+
+
+position: absolute;
+width: 1440px;
+height: 406px;
+left: 0px;
+top: 51px;
+
+background: #C4C4C4;
+
+
+/* UiuhJ6eN7YitwQwKtBWjvT 3 */
+
+
+position: absolute;
+width: 1440px;
+height: 416px;
+left: 0px;
+top: 51px;
+
+background: url(UiuhJ6eN7YitwQwKtBWjvT.jpg);
+
+
+/* ContinueWatching */
+
+
+position: absolute;
+width: 1451px;
+height: 42px;
+left: -11px;
+top: 457px;
+
+background: #000000;
+
+
+/* ActionTitleBox */
+
+
+position: absolute;
+width: 1451px;
+height: 42px;
+left: -11px;
+top: 599px;
+
+background: #000000;
+
+
+/* DramaTitleBox */
+
+
+position: absolute;
+width: 1451px;
+height: 42px;
+left: -11px;
+top: 740px;
+
+background: #000000;
+
+
+/* AnimeTitleBox */
+
+
+position: absolute;
+width: 1451px;
+height: 42px;
+left: -11px;
+top: 882px;
+
+background: #000000;
+
+
+/* NavBar */
+
+
+position: absolute;
+width: 1440px;
+height: 51px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Continue Watching.. */
+
+
+position: absolute;
+width: 323px;
+height: 41px;
+left: 0px;
+top: 457px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+text-align: right;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Action */
+
+
+position: absolute;
+width: 103px;
+height: 41px;
+left: 0px;
+top: 599px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+text-align: right;
+
+color: #FFFFFF;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Drama */
+
+
+position: absolute;
+width: 105px;
+height: 41px;
+left: 0px;
+top: 740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+text-align: right;
+
+color: #FFFFFF;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Anime */
+
+
+position: absolute;
+width: 101px;
+height: 41px;
+left: 0px;
+top: 882px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+text-align: right;
+
+color: #FFFFFF;
+
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* ContinueWatching-1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 0px;
+top: 499px;
+
+background: #333030;
+
+
+/* ContinueWatching-2 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 240px;
+top: 499px;
+
+background: #636363;
+
+
+/* ContinueWatching-3 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 480px;
+top: 499px;
+
+background: #333030;
+
+
+/* ContinueWatching-4 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 720px;
+top: 499px;
+
+background: #636363;
+
+
+/* ArcaneImage */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 720px;
+top: 499px;
+
+background: url(AAAABWINfeF3tnUMRAQSwGXXXPLTOuocmJoBdERICqr9a6-yG5cYwGKw99M5ihyZO-ajfYURepW9FfRNC_N99OrYEnCAMytZkPNLsJT40ry5BWBTh3kIemkt3oklVPdavw.jpg);
+
+
+/* ContinueWatching-5 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 960px;
+top: 499px;
+
+background: #333030;
+
+
+/* ContinueWatching-6 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 1200px;
+top: 499px;
+
+background: #636363;
+
+
+/* Action-1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 0px;
+top: 641px;
+
+background: #333030;
+
+
+/* Action-2 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 240px;
+top: 641px;
+
+background: #636363;
+
+
+/* Action-3 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 480px;
+top: 641px;
+
+background: #333030;
+
+
+/* Action-4 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 720px;
+top: 641px;
+
+background: #636363;
+
+
+/* Action-5 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 960px;
+top: 641px;
+
+background: #333030;
+
+
+/* DbkQwQoUwAA1rSI 1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 960px;
+top: 499px;
+
+background: url(DbkQwQoUwAA1rSI.jpg);
+
+
+/* Action-6 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 1200px;
+top: 641px;
+
+background: #636363;
+
+
+/* oitnbp 1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 1200px;
+top: 499px;
+
+background: url(oitnbp.jpg);
+
+
+/* Drama-1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 0px;
+top: 782px;
+
+background: #333030;
+
+
+/* Drama-2 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 240px;
+top: 782px;
+
+background: #636363;
+
+
+/* Drama-3 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 480px;
+top: 782px;
+
+background: #333030;
+
+
+/* Drama-4 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 720px;
+top: 782px;
+
+background: #636363;
+
+
+/* Drama-5 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 960px;
+top: 782px;
+
+background: #333030;
+
+
+/* Drama-6 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 1200px;
+top: 782px;
+
+background: #636363;
+
+
+/* Anime-1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 0px;
+top: 924px;
+
+background: #333030;
+
+
+/* Anime-2 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 240px;
+top: 924px;
+
+background: #636363;
+
+
+/* Anime-3 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 480px;
+top: 924px;
+
+background: #333030;
+
+
+/* Anime-4 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 720px;
+top: 924px;
+
+background: #636363;
+
+
+/* Anime-5 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 960px;
+top: 924px;
+
+background: #333030;
+
+
+/* Anime-6 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 1200px;
+top: 924px;
+
+background: #636363;
+
+
+/* Nav-Bar-Logo-Box */
+
+
+position: absolute;
+width: 220px;
+height: 51px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Nav-Bar-Home */
+
+
+position: absolute;
+width: 117px;
+height: 51px;
+left: 213px;
+top: 0px;
+
+background: #000000;
+
+
+/* Home */
+
+
+position: absolute;
+width: 117px;
+height: 51px;
+left: 213px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #929292;
+
+
+
+/* kisspng-netflix-streaming-media-television-show-logo-netflix-logo-5b35b03bb4e9d0 1 */
+
+
+position: absolute;
+width: 178px;
+height: 42px;
+left: 17px;
+top: 5px;
+
+background: url(kisspng-netflix-streaming-media-television-show-logo-netflix-logo-5b35b03bb4e9d0.png);
+
+
+/* Nav-Bar-TVShows */
+
+
+position: absolute;
+width: 117px;
+height: 51px;
+left: 330px;
+top: 0px;
+
+background: #000000;
+
+
+/* TV Shows */
+
+
+position: absolute;
+width: 117px;
+height: 51px;
+left: 330px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #929292;
+
+
+
+/* Nav-Bar-Movies */
+
+
+position: absolute;
+width: 110px;
+height: 51px;
+left: 440px;
+top: 0px;
+
+background: #000000;
+
+
+/* Movies */
+
+
+position: absolute;
+width: 110px;
+height: 51px;
+left: 440px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #929292;
+
+
+
+/* Nav-Bar-My-List */
+
+
+position: absolute;
+width: 110px;
+height: 51px;
+left: 660px;
+top: 0px;
+
+background: #000000;
+
+
+/* My List */
+
+
+position: absolute;
+width: 110px;
+height: 51px;
+left: 660px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #929292;
+
+
+
+/* Nav-Bar-Recently-Added */
+
+
+position: absolute;
+width: 110px;
+height: 51px;
+left: 550px;
+top: 0px;
+
+background: #000000;
+
+
+/* Recently Added */
+
+
+position: absolute;
+width: 121px;
+height: 19px;
+left: 545px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #929292;
+
+
+
+/* 02_NF_TheWitcher_SocialSkin_facebook 1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 0px;
+top: 499px;
+
+background: url(02_NF_TheWitcher_SocialSkin_facebook.jpg);
+
+
+/* 63d275100591999 1 */
+
+
+position: absolute;
+width: 240px;
+height: 100px;
+left: 240px;
+top: 499px;
+
+background: url(63d275100591999.jpg);
+
+
+/* 158445-untitled-design-56 1 */
+
+
+position: absolute;
+width: 240px;
+height: 101px;
+left: 480px;
+top: 498px;
+
+background: url(158445-untitled-design-56.png);
