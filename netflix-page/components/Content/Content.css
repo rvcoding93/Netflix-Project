@@ -1,0 +1,206 @@
+.content {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  min-width: 1440px;
+}
+
+.overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  height: 51px;
+  min-width: 220px;
+  padding: 4px 17px;
+}
+
+.kisspng-netflix-stre {
+  height: 42px;
+  object-fit: cover;
+  width: 178px;
+}
+
+.rectangle-5 {
+  background-color: var(--black);
+  height: 51px;
+  width: 110px;
+}
+
+.overlap-group7 {
+  height: 448px;
+  margin-left: -11px;
+  position: relative;
+  width: 1451px;
+}
+
+.rectangle-15 {
+  background-color: var(--mist-gray);
+  height: 406px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.uiuh-j6e-n7-yitw-qw-kt-b-wjv-t-3 {
+  height: 416px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-16 {
+  background-color: var(--black);
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 406px;
+  width: 1451px;
+}
+
+.continue-watching {
+  height: 33px;
+  left: 13px;
+  position: absolute;
+  top: 410px;
+  width: 318px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.rectangle {
+  background-color: var(--black);
+  height: 100px;
+  width: 240px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  min-width: 240px;
+}
+
+.overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 42px;
+  margin-left: -11px;
+  min-width: 1451px;
+  padding: 7px 12.5px;
+}
+
+.action {
+  height: 26px;
+  width: 99px;
+}
+
+.overlap-group5 {
+  height: 141px;
+  margin-left: -11px;
+  position: relative;
+  width: 1451px;
+}
+
+.rectangle-18 {
+  background-color: var(--black);
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 1451px;
+}
+
+.drama {
+  height: 25px;
+  left: 14px;
+  position: absolute;
+  top: 106px;
+  width: 99px;
+}
+
+.rectangle-28 {
+  background-color: var(--black);
+  height: 100px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.rectangle-29 {
+  background-color: var(--black);
+  height: 100px;
+  left: 251px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.rectangle-3 {
+  background-color: var(--black);
+  height: 100px;
+  left: 491px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.rectangle-32 {
+  background-color: var(--black);
+  height: 100px;
+  left: 731px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.rectangle-33 {
+  background-color: var(--black);
+  height: 100px;
+  left: 971px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.rectangle-34 {
+  background-color: var(--black);
+  height: 100px;
+  left: 1211px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 42px;
+  margin-left: -11px;
+  min-width: 1451px;
+  padding: 7px 12px;
+}
+
+.anime {
+  height: 26px;
+  width: 98px;
+}
+

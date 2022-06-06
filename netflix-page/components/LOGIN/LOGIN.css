@@ -1,0 +1,322 @@
+.login {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-3 {
+  height: 1026px;
+  margin-left: -34px;
+  margin-top: -2px;
+  position: relative;
+  width: 1474px;
+}
+
+.rectangle-56 {
+  background-color: var(--mist-gray);
+  height: 1024px;
+  left: 34px;
+  position: absolute;
+  top: 2px;
+  width: 1440px;
+}
+
+.f75774ea-9a7c-44ea-a7c7-91d1e9df10e6-1 {
+  height: 1024px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-57 {
+  background-color: #3633338a;
+  height: 1024px;
+  left: 34px;
+  position: absolute;
+  top: 2px;
+  width: 1440px;
+}
+
+.rectangle-58 {
+  background-color: #00000075;
+  border-radius: 9px;
+  height: 500px;
+  left: 574px;
+  position: absolute;
+  top: 263px;
+  width: 351px;
+}
+
+.sign-up-now {
+  cursor: pointer;
+  height: 1px;
+  left: 724px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 642px;
+  transition: all 0.2s ease;
+  width: 73px;
+}
+
+.sign-up-now:hover {
+  transform: scale(1.2);
+}
+
+.sign-in {
+  left: 626px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 306px;
+  width: 167px;
+}
+
+.rectangle-60 {
+  background-color: var(--dove-gray);
+  border-radius: 4px;
+  height: 41px;
+  left: 626px;
+  position: absolute;
+  top: 361px;
+  width: 250px;
+}
+
+.rectangle-61 {
+  background-color: var(--dove-gray);
+  border-radius: 4px;
+  cursor: pointer;
+  height: 42px;
+  left: 626px;
+  position: absolute;
+  top: 414px;
+  width: 250px;
+}
+
+.rectangle-62 {
+  background-color: var(--tamarillo);
+  border-radius: 4px;
+  height: 42px;
+  left: 626px;
+  position: absolute;
+  top: 487px;
+  width: 249px;
+}
+
+.new-to-netflix {
+  height: 12px;
+  left: 630px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 637px;
+  width: 91px;
+}
+
+.sign-up-now-box {
+  border-radius: 1px;
+  cursor: pointer;
+  height: 12px;
+  left: 718px;
+  position: absolute;
+  top: 638px;
+  transition: all 0.2s ease;
+  width: 71px;
+}
+
+.sign-up-now-box:hover {
+  background-color: #ff0000
+}
+
+.kisspng-netflix-stre-2 {
+  cursor: pointer;
+  height: 78px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 253px;
+}
+
+.kisspng-netflix-stre-2:hover {
+  transform: scale(1.1);
+}
+
+.rectangle-69 {
+  background-color: #0000009e;
+  height: 212px;
+  left: 34px;
+  position: absolute;
+  top: 814px;
+  width: 1440px;
+}
+
+.this-page-is-protect {
+  color: var(--mist-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 632px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 655px;
+  width: 249px;
+}
+
+.remember-me {
+  height: 12px;
+  left: 652px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 540px;
+  width: 83px;
+}
+
+.object {
+  height: 12px;
+  left: 630px;
+  position: absolute;
+  top: 541px;
+  width: 17px;
+}
+
+.need-help {
+  height: 12px;
+  left: 806px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 540px;
+  width: 69px;
+}
+
+.sign-in-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-weight: 400;
+  height: 42px;
+  left: 626px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 486px;
+  width: 249px;
+}
+
+.questions-call-1-844-505-2993 {
+  height: 27px;
+  left: 324px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 864px;
+  width: 213px;
+}
+
+.faq {
+  height: 27px;
+  left: 324px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 907px;
+  width: 213px;
+}
+
+.cookie-preferences {
+  height: 27px;
+  left: 324px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 934px;
+  width: 212px;
+}
+
+.help-center {
+  height: 27px;
+  left: 538px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 907px;
+  width: 213px;
+}
+
+.corporate-information {
+  height: 28px;
+  left: 538px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 934px;
+  width: 212px;
+}
+
+.terms-of-use {
+  height: 27px;
+  left: 750px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 907px;
+  width: 213px;
+}
+
+.privacy {
+  height: 27px;
+  left: 964px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 907px;
+  width: 213px;
+}
+
+.object-1 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  gap: 14px;
+  height: 41px;
+  left: 626px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  position: absolute;
+  top: 361px;
+  width: 250px;
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+}
+
+.input {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+}
+
+.label {
+  height: 24px;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.text-field-filled-di {
+  height: 42px;
+  left: 626px;
+  position: absolute;
+  top: 414px;
+  width: 250px;
+}
+
+.text-field-filled-di .mdc-text-field--focused:not(.mdc-text-field--disabled) .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+

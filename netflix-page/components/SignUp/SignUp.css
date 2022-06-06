@@ -1,0 +1,932 @@
+.sign-up {
+  align-items: flex-start;
+  background-color: var(--storm-dust);
+  display: flex;
+  flex-direction: column;
+  height: 2048px;
+  width: 1440px;
+}
+
+.container-container {
+  height: 1169px;
+  position: relative;
+  width: 1440px;
+}
+
+.hero-image-container-div {
+  align-items: flex-start;
+  background-color: #db7d7d;
+  display: flex;
+  height: 585px;
+  left: 0;
+  min-width: 1440px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group17 {
+  height: 584px;
+  position: relative;
+  width: 1440px;
+}
+
+.sign-up-page-background {
+  height: 583px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-85 {
+  background-color: #2b2b2b66;
+  height: 584px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.netflix-logo {
+  height: 42px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 178px;
+}
+
+.hero-image-text-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 279px;
+  min-height: 360px;
+  position: absolute;
+  top: 138px;
+  width: 882px;
+}
+
+.hero-image-text-div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  min-height: 301px;
+  padding: 28px 65px;
+  width: 888px;
+}
+
+.title {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 64px;
+  font-weight: 700;
+  height: 129px;
+  letter-spacing: 0;
+  margin-top: 8px;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 752px;
+}
+
+.watch-container {
+  align-self: center;
+  height: 108px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 674px;
+}
+
+.watch-anywhere-cancel-anytime {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-weight: 400;
+  height: 65px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 674px;
+}
+
+.ready-to-watch-ente {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 44px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 674px;
+}
+
+.overlap-group1-2 {
+  height: 59px;
+  margin-left: 4.0px;
+  position: relative;
+  width: 674px;
+}
+
+.rectangle-1 {
+  background-color: var(--tamarillo);
+  height: 59px;
+  left: 464px;
+  position: absolute;
+  top: 0;
+  width: 209px;
+}
+
+.rectangle-90 {
+  background-color: var(--red);
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 674px;
+}
+
+.get-started {
+  cursor: pointer;
+  height: 59px;
+  left: 464px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 210px;
+}
+
+.rectangle-93 {
+  background-color: var(--mist-gray);
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 465px;
+}
+
+.text-field-filled-di {
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 465px;
+}
+
+.overlap-group2-2 {
+  align-items: flex-start;
+  background-color: var(--red);
+  border-radius: 4px;
+  display: flex;
+  height: 25px;
+  left: 1321px;
+  min-width: 75px;
+  position: absolute;
+  top: 41px;
+}
+
+.sign-in-2 {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 75px;
+}
+
+.media-master-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 586px;
+  position: absolute;
+  top: 583px;
+  width: 1440px;
+}
+
+.container-container-1 {
+  height: 294px;
+  position: relative;
+  width: 1440px;
+}
+
+.enjoy-your-tv-container {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 146px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 382.2px;
+  position: absolute;
+  top: 0;
+}
+
+.on-container {
+  height: 117px;
+  position: relative;
+  width: 303px;
+}
+
+.enjoy-on-your-tv {
+  height: 82px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 303px;
+}
+
+.watch-on-smart-t-vs {
+  height: 47px;
+  left: 1px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 70px;
+  width: 302px;
+}
+
+.will-smith-ad {
+  background-color: var(--mist-gray);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 145px;
+  margin-left: 24px;
+  width: 287px;
+}
+
+.download-your-shows-container-div {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 149px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 380.0px;
+  position: absolute;
+  top: 145px;
+}
+
+.group-2 {
+  background-color: var(--mist-gray);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 149px;
+  width: 195px;
+}
+
+.group-15 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 39px;
+  margin-top: 2.73px;
+  min-height: 123px;
+  padding: 0 25.7px;
+  width: 440px;
+}
+
+.download-your-shows-to-watch-offline {
+  height: 51px;
+  letter-spacing: 0;
+  width: 350px;
+}
+
+.save-your-favorites {
+  align-self: center;
+  height: 43px;
+  letter-spacing: 0;
+  margin-right: 0.58px;
+  margin-top: 2px;
+  width: 277px;
+}
+
+.overlap-group4-1 {
+  height: 292px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group1-3 {
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-83 {
+  background-color: var(--black);
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.watch-everywhere-div {
+  align-items: center;
+  display: flex;
+  height: 147px;
+  justify-content: flex-end;
+  left: 385px;
+  min-width: 673px;
+  padding: 0 0.2px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group-6 {
+  height: 93px;
+  margin-bottom: 7.35px;
+  position: relative;
+  width: 323px;
+}
+
+.watch-everywhere {
+  height: 59px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 323px;
+}
+
+.stream-unlimited-mov {
+  height: 45px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+  width: 320px;
+}
+
+.group-4 {
+  background-color: var(--mist-gray);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  margin-left: 53px;
+  width: 233px;
+}
+
+.create-profiles-for-kids-container-div {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  height: 146px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 380px;
+  position: absolute;
+  top: 146px;
+}
+
+.overlap-group2-3 {
+  height: 145px;
+  position: relative;
+  width: 674px;
+}
+
+.create-profiles-for-kids {
+  height: 56px;
+  left: 302px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+  width: 350px;
+}
+
+.group-11 {
+  align-items: center;
+  display: flex;
+  height: 145px;
+  left: 0;
+  min-width: 674px;
+  position: absolute;
+  top: 0;
+}
+
+.kids-value-prop-1 {
+  height: 145px;
+  object-fit: cover;
+  width: 302px;
+}
+
+.send-kids-on-adventu {
+  height: 43px;
+  letter-spacing: 0;
+  margin-top: 40.72px;
+  width: 346px;
+}
+
+.overlap-group19 {
+  height: 587px;
+  position: relative;
+  width: 1440px;
+}
+
+.indicator {
+  background-color: var(--black-2);
+  height: 3px;
+  left: 382px;
+  position: absolute;
+  top: 565px;
+  width: 467px;
+}
+
+.overlap-group18 {
+  height: 587px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.frequently-asked-questions-container {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 587px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 90px 301.0px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1-4 {
+  height: 344px;
+  position: relative;
+  width: 838px;
+}
+
+.overlap-group-7 {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 838px;
+}
+
+.rectangle-98 {
+  background-color: var(--black);
+  height: 340px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 836px;
+}
+
+.rectangle-99 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 837px;
+}
+
+.rectangle-101 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 837px;
+}
+
+.rectangle-103 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 117px;
+  width: 837px;
+}
+
+.rectangle-102 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 175px;
+  width: 837px;
+}
+
+.rectangle-104 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 234px;
+  width: 837px;
+}
+
+.rectangle-105 {
+  background-color: var(--sunglo);
+  height: 49px;
+  left: 1px;
+  position: absolute;
+  top: 292px;
+  width: 837px;
+}
+
+.drop-down-filled-dis {
+  height: 51px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 837px;
+}
+
+.drop-down-filled-dis-1 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 101px;
+  width: 838px;
+}
+
+.drop-down-filled-dis-2 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 118px;
+  width: 838px;
+}
+
+.object-2 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  gap: 14px;
+  height: 51px;
+  left: 0;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  position: absolute;
+  top: 60px;
+  width: 838px;
+}
+
+.input-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+}
+
+.label-1 {
+  height: 14px;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 212px;
+}
+
+.icon-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.drop-down-filled-dis-3 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 838px;
+}
+
+.drop-down-filled-dis-4 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 235px;
+  width: 838px;
+}
+
+.drop-down-filled-dis-5 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 294px;
+  width: 838px;
+}
+
+.overlap-group2-4 {
+  height: 49px;
+  left: 301px;
+  position: absolute;
+  top: 29px;
+  width: 838px;
+}
+
+.rectangle-106 {
+  background-color: var(--black);
+  height: 49px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 837px;
+}
+
+.frequently-asked-questions {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 48px;
+  font-weight: 700;
+  height: 49px;
+  left: 0;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 838px;
+}
+
+.email-address-get-started {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 345px;
+  min-height: 85px;
+  position: absolute;
+  top: 482px;
+  width: 756px;
+}
+
+.overlap-group4-2 {
+  height: 26px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 750px;
+}
+
+.rectangle-107 {
+  background-color: var(--black);
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 750px;
+}
+
+.ready-to-watch-ente-1 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 750px;
+}
+
+.overlap-group3-1 {
+  background-color: #573838;
+  height: 59px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 674px;
+}
+
+.rectangle-110 {
+  background-color: var(--white);
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 465px;
+}
+
+.vector {
+  height: 1px;
+  left: 28px;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.vector-1 {
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 21px;
+  width: 20px;
+}
+
+.label-2 {
+  left: 54px;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.footer-master-div {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 292px;
+  min-width: 1440px;
+  padding: 19px 301px;
+}
+
+.footer-inner-container {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  min-height: 210px;
+  padding: 8px 81px;
+  width: 837px;
+}
+
+.questions-call-1-844-505-2993-1 {
+  color: var(--gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 2px;
+  min-height: 25px;
+  width: 489px;
+}
+
+.footer-link-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 154px;
+  margin-top: 10px;
+  min-width: 674px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 154px;
+  width: 125px;
+}
+
+.overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 25px;
+  min-width: 125px;
+}
+
+.faq-1,
+.investor-relations,
+.ways-to-watch,
+.corporate-information-1,
+.only-on-netflix,
+.help-center-1,
+.jobs,
+.terms-of-use-1,
+.contact-us,
+.account,
+.redeem-giftcards,
+.privacy-1,
+.speed-test,
+.media-center,
+.buy-gift-cards,
+.cookie-preferences-1,
+.legal-notices {
+  letter-spacing: 0;
+  min-height: 25px;
+  width: 125px;
+}
+
+.overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 25px;
+  margin-top: 7px;
+  min-width: 125px;
+}
+
+.overlap-group4-3 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 25px;
+  margin-top: 8px;
+  min-width: 125px;
+}
+
+.overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 64px;
+  min-height: 121px;
+  width: 125px;
+}
+
+.overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 51px;
+  min-height: 121px;
+  width: 125px;
+}
+
+.overlap-group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  min-height: 121px;
+  width: 125px;
+}
+
+.drop-down-filled-dis-4 .custom-enhanced-select-width {
+  width: 200px;
+}
+
+.mdc-list-item {
+  align-items: center;
+  display: flex;
+  height: 48px;
+  position: relative;
+}
+
+.drop-down-filled-dis .custom-enhanced-select-width {
+  width: 839px;
+}
+
+.drop-down-filled-dis .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-1 .custom-enhanced-select-width {
+  width: 839px;
+}
+
+.drop-down-filled-dis-3 .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-3 .custom-enhanced-select-width {
+  width: 200px;
+}
+
+.drop-down-filled-dis-5 .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-5 .custom-enhanced-select-width {
+  width: 200px;
+}
+
+.drop-down-filled-dis-4 .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-2 .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-2 .custom-enhanced-select-width {
+  width: 839px;
+}
+
+.text-field-filled-di .mdc-text-field--focused:not(.mdc-text-field--disabled) .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+
+.drop-down-filled-dis-1 .mdc-select:not(.mdc-select--disabled).mdc-select--focused .mdc-floating-label {
+  color: var(--mdc-theme-primary);
+}
+

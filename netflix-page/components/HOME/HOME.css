@@ -1,0 +1,472 @@
+.home {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group2-1 {
+  height: 52px;
+  margin-top: -1px;
+  position: relative;
+  width: 1440px;
+}
+
+.nav-bar {
+  background-color: var(--black);
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1440px;
+}
+
+.nav-bar-logo-box {
+  background-color: var(--black);
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 220px;
+}
+
+.nav-bar-home {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 51px;
+  left: 213px;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 117px;
+}
+
+.place {
+  cursor: pointer;
+  height: 51px;
+  left: 213px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 117px;
+}
+
+.place:hover,
+.kisspng-netflix-stre-1:hover,
+.tv-shows:hover,
+.movies:hover,
+.my-list:hover,
+.recently-added:hover,
+.main-display-img:hover,
+.x158445-untitled-design-56-1:hover,
+.link:hover,
+.link-1:hover,
+.action-1-1:hover,
+.action-2:hover,
+.action-3:hover,
+.action-4:hover,
+.action-5:hover,
+.action-6:hover,
+.link-2:hover,
+.link-3:hover {
+  transform: scale(1.1);
+}
+
+.kisspng-netflix-stre-1 {
+  cursor: pointer;
+  height: 36px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transition: all 0.2s ease;
+  width: 130px;
+}
+
+.nav-bar-tv-shows {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 51px;
+  left: 330px;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 117px;
+}
+
+.tv-shows {
+  cursor: pointer;
+  height: 51px;
+  left: 330px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 117px;
+}
+
+.nav-bar-movies {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 51px;
+  left: 440px;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+
+.nav-bar-movies:hover,
+.nav-bar-my-list:hover {
+  background-color: #fff
+}
+
+.movies {
+  cursor: pointer;
+  height: 51px;
+  left: 440px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+
+.nav-bar-my-list {
+  background-color: var(--black);
+  cursor: pointer;
+  height: 51px;
+  left: 660px;
+  position: absolute;
+  top: 1px;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+
+.my-list {
+  cursor: pointer;
+  height: 51px;
+  left: 660px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 110px;
+}
+
+.nav-bar-recently-added {
+  background-color: var(--black);
+  height: 51px;
+  left: 550px;
+  position: absolute;
+  top: 1px;
+  width: 110px;
+}
+
+.recently-added {
+  cursor: pointer;
+  height: 19px;
+  left: 545px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  transition: all 0.2s ease;
+  width: 121px;
+}
+
+.overlap-group-container {
+  height: 548px;
+  margin-left: -11px;
+  position: relative;
+  width: 1451px;
+}
+
+.overlap-group1-1 {
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1451px;
+}
+
+.main-display-img {
+  cursor: pointer;
+  height: 406px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 1440px;
+}
+
+.uiuh-j6e-n7-yitw-qw-kt-b-wjv-t-3-1 {
+  cursor: pointer;
+  height: 416px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  transition: all 1.5s ease;
+  width: 1440px;
+}
+
+.uiuh-j6e-n7-yitw-qw-kt-b-wjv-t-3-1:hover {
+  opacity: 0;
+}
+
+.continue-watching-1 {
+  background-color: var(--black);
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 406px;
+  width: 1451px;
+}
+
+.continue-watching-2 {
+  height: 33px;
+  left: 30px;
+  position: absolute;
+  top: 410px;
+  width: 318px;
+}
+
+.continue-watching-3 {
+  background-color: var(--thunder);
+  height: 100px;
+  left: 491px;
+  position: absolute;
+  top: 448px;
+  width: 240px;
+}
+
+.x158445-untitled-design-56-1 {
+  cursor: pointer;
+  height: 101px;
+  left: 491px;
+  position: absolute;
+  top: 447px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.overlap-group8-1 {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  display: flex;
+  height: 100px;
+  left: 11px;
+  min-width: 240px;
+  position: absolute;
+  top: 448px;
+}
+
+.link {
+  cursor: pointer;
+  height: 100px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--storm-dust);
+  display: flex;
+  height: 100px;
+  left: 251px;
+  min-width: 240px;
+  position: absolute;
+  top: 448px;
+}
+
+.overlap-group7-1 {
+  align-items: flex-start;
+  background-color: var(--storm-dust);
+  display: flex;
+  height: 100px;
+  left: 731px;
+  min-width: 240px;
+  position: absolute;
+  top: 448px;
+}
+
+.link-1 {
+  cursor: pointer;
+  height: 100px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  display: flex;
+  height: 100px;
+  left: 971px;
+  min-width: 240px;
+  position: absolute;
+  top: 448px;
+}
+
+.overlap-group5-1 {
+  align-items: flex-start;
+  background-color: var(--storm-dust);
+  display: flex;
+  height: 100px;
+  left: 1211px;
+  min-width: 240px;
+  position: absolute;
+  top: 448px;
+}
+
+.overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 42px;
+  margin-left: -11px;
+  min-width: 1451px;
+  padding: 8px 29.5px;
+}
+
+.action-1 {
+  height: 26px;
+  width: 99px;
+}
+
+.overlap-group-2 {
+  height: 141px;
+  margin-left: -11px;
+  position: relative;
+  width: 1451px;
+}
+
+.drama-title-box {
+  background-color: var(--black);
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 1451px;
+}
+
+.drama-1 {
+  height: 25px;
+  left: 32px;
+  position: absolute;
+  top: 108px;
+  width: 99px;
+}
+
+.action-1-1 {
+  background-color: var(--thunder);
+  cursor: pointer;
+  height: 100px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.action-2 {
+  background-color: var(--storm-dust);
+  cursor: pointer;
+  height: 100px;
+  left: 251px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.action-3 {
+  background-color: var(--thunder);
+  cursor: pointer;
+  height: 100px;
+  left: 491px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.action-4 {
+  background-color: var(--storm-dust);
+  cursor: pointer;
+  height: 100px;
+  left: 731px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.action-5 {
+  background-color: var(--thunder);
+  cursor: pointer;
+  height: 100px;
+  left: 971px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.action-6 {
+  background-color: var(--storm-dust);
+  cursor: pointer;
+  height: 100px;
+  left: 1211px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.x-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.link-2 {
+  background-color: var(--thunder);
+  cursor: pointer;
+  height: 100px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.link-3 {
+  background-color: var(--storm-dust);
+  cursor: pointer;
+  height: 100px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 42px;
+  margin-left: -11px;
+  min-width: 1451px;
+  padding: 7px 31px;
+}
+
+.anime-1 {
+  height: 26px;
+  width: 98px;
+}
+
